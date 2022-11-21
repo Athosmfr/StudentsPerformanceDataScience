@@ -1,0 +1,19 @@
+Dicionario StudentsPerformance -
+
+1 - 	Gender (Gênero) : Male(Macho), Female(Fêmea)
+2 - 	Race/Ethnicity (Raça/Etnia) : 
+
+	Group A - White - British (Branco - Britânico)
+	Group B - White - Irish (Branco - Irlandes)
+	Group C - White - Any other White background (Qualquer outro histórico branco)
+	Group D - Mixed - White and Black Caribbean (Branco e Preto Caribenho)
+	Group E - Mixed - White and Black African (Branco e Preto Africano)
+	Group F - Mixed - White and Asian (Branco e Asiático)
+	Group G - Mixed - Any other mixed background (Qualquer outra)
+
+3 -	Parental Level of Education ( Nível de Escolaridade dos Pais)
+4 - 	Lunch (Almoço)
+5 - 	Test Preparation Course (Curso Preparatório para Testes)
+6 - 	Math Score (Pontuação em Matemática)
+7 - 	Reading Score (Pontuação em Leitura)
+8 - 	Writing Score (Pontuação em Escrita) 
