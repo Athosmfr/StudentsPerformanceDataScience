@@ -1,19 +1,39 @@
 Dicionario StudentsPerformance -
 
 1 - 	Gender (Gênero) : Male(Macho), Female(Fêmea)
-2 - 	Race/Ethnicity (Raça/Etnia) : 
 
-	Group A - White - British (Branco - Britânico)
-	Group B - White - Irish (Branco - Irlandes)
-	Group C - White - Any other White background (Qualquer outro histórico branco)
-	Group D - Mixed - White and Black Caribbean (Branco e Preto Caribenho)
-	Group E - Mixed - White and Black African (Branco e Preto Africano)
-	Group F - Mixed - White and Asian (Branco e Asiático)
-	Group G - Mixed - Any other mixed background (Qualquer outra)
+2 - 	Race/Ethnicity (Raça/Etnia) : White, Black or African American, Asian, Native American/Alaska Native and Native Hawaiian/Pacific Islander
+
+	Group A - White (Branco)
+	Group B - Black or African American (Negro ou Afro-Americano)
+	Group C - Asian (Asiático)
+	Group D - Native American/Alaska Native (Nativo Americano/Nativo do Alasca)
+	Group E - Native Hawaiian/Pacific Islander (Nativo Havaiano/Nativo das Ilhas do Pacífico)
 
 3 -	Parental Level of Education ( Nível de Escolaridade dos Pais)
+
+	Algum ensino médio/faculdade significa que eles não terminaram. (Some College, Some High School)
+	nos EUA, após o ensino médio, você pode obter um associado ou um bacharel (que é a faculdade, portanto, alguma faculdade estará abaixo dela) (Associate's Degree, Some College)
+
+	Master's Degree - Mestre
+	Bachelor's Degree - Bacharél
+	Associate's Degree - Associado
+	Some College Degree - Faculdade Incompleta
+	High School Degree - Ensino Médio Completo
+	Some High School Degree - Ensino Médio Incompleto
+
 4 - 	Lunch (Almoço)
+	Esta variável é uma correlação direta com a Renda dos pais, já que o almoço grátis/reduzido é a renda testada nos EUA. Você só pode se inscrever se a renda de seus pais estiver abaixo de um certo nível.
+	
+	Standard (Comum), Free/Reduced (Grátis/Reduzido)
+
 5 - 	Test Preparation Course (Curso Preparatório para Testes)
+
+	None (Nenhum), Completed (Completado)
+
+
 6 - 	Math Score (Pontuação em Matemática)
+
 7 - 	Reading Score (Pontuação em Leitura)
+
 8 - 	Writing Score (Pontuação em Escrita) 
