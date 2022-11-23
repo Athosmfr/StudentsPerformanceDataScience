@@ -1,4 +1,4 @@
-Genero,Raca/Etnia,Nivel de Escolaridade dos Pais,Almoco,Curso Preparatório para Testes,Pontuacao em Matematica,Pontuacao em Leitura,Pontuacao em Escrita,Pontuacao Total
+genero,etnia,nivel_de_escolaridade_dos_pais,almoco,curso_preparatorio,pontuacao_em_matematica,pontuacao_em_leitura,pontuacao_em_escrita,pontuacao_total
 0,1,4,0,0,72,72,74,72
 0,2,0,0,1,69,90,88,82
 0,1,5,0,0,90,95,93,92
